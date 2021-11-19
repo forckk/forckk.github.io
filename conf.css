@@ -1,0 +1,53 @@
+
+.title1 {
+	font-size: 14px ;
+	padding-right: 5px;
+}
+input {
+	width: 60px;
+	margin-right: 5px
+
+}
+table {
+	background: linear-gradient(17deg, rgba(145,176,213,1) 9%, rgba(178,199,225,1) 44%, rgba(209,216,225,1) 78%, rgba(163,215,226,1) 100%);	/*background-color: #CFD7E1;*/
+	margin-left: 14%;
+	margin-top: 0%;
+}
+.button {
+	margin-left: 4px;
+}
+.int_s {
+	width: 35px;
+	margin-left: 3px;
+	margin-right: 0px;
+}
+#curv {
+	/*color: #1D2120;*/
+	color: #000077;
+}
+#curv1 {
+	/*color: #1D2120;*/
+	color: #000077;
+}
+#curv2 {
+	/*color: #1D2120;*/
+	color: #000077;
+	text-decoration: overline;
+}
+.lvll1{
+	margin-right: 0px;
+	padding-right: 0px;
+}
+.but_ac {
+	padding: 0px;
+	margin: 0px;
+	width: 15px;
+}
+#popr {
+	margin-left: 4px;
+	margin-right: 26px;
+}
+body {
+	background: linear-gradient(90deg, rgba(145,176,213,0.2) 9%, rgba(141,174,214,0.2) 44%, rgba(73,139,224,0.2) 78%, rgba(163,215,226,0.2) 100%);	
+	background-size: 100%;	
+}
